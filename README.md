@@ -3,5 +3,5 @@ My first repository!
 
 Hello guys!
 
-I'm new in IT area. I like HTML, CSS and JavaScript.
+I'm new in the IT area. I like HTML, CSS and JavaScript.
  
